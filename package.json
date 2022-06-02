@@ -1,0 +1,18 @@
+{
+  "name": "socialconnectorbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@adiwajshing/baileys": "^4.1.0",
+    "@open-wa/wa-automate": "^4.37.2",
+    "discord.js": "^13.7.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
